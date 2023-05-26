@@ -27,7 +27,7 @@ let chien: Dog = {
     name: "gigi",
     breed: "good",
     hunger: 100
-};
+};     
 feedDog(chien);
 feedDog(chien);
 feedDog(chien);
